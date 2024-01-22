@@ -41,5 +41,7 @@ O objetivo deste jogo é testar e aprimorar a memória do jogador, desafiando-o 
 
 ## Contribuições
 
+Este projeto foi desenvolvido com instruções e orientações valiosas do Filipão da plataforma [DIO (Digital Innovation One)](https://www.digitalinnovation.one/) no Bootcamp de Desenvolvimento de Jogos 22/01/2023
+
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) ou enviar pull requests para melhorar o jogo.
 
