@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Bem-vindo ao repositório do jogo da memória (Memory Game)! Este é um projeto simples e interativo desenvolvido como parte do meu portfólio para demonstrar minhas habilidades como programadora front-end. O jogo foi implementado usando HTML, CSS e JavaScript. Foi desenvolvido com instruções e orientações valiosas na aula com Filipão da plataforma [DIO (Digital Innovation One)](https://www.digitalinnovation.one/) no Bootcamp de Desenvolvimento de Jogos 22/01/2023
+Bem-vindo ao repositório do jogo da memória (Memory Game)! Este é um projeto simples e interativo desenvolvido como parte do meu portfólio para demonstrar minhas habilidades como programadora front-end. O jogo foi implementado usando HTML, CSS e JavaScript. Foi desenvolvido com instruções e orientações valiosas na aula do instrutor Filipão da plataforma [DIO (Digital Innovation One)](https://www.digitalinnovation.one/) no Bootcamp de Desenvolvimento de Jogos 22/01/2023.
 
 
 ## Objetivo
